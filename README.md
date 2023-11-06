@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **yahir.lope@icloud.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yahir-lope/](https://www.linkedin.com/in/yahir-lope/)
-
 - ⚡ Fun fact **I'm a MMA & Muay Thai fighter, bassist in a Heavy Metal band called Nightrise**
 
 <h3 align="left">Connect with me:</h3>
