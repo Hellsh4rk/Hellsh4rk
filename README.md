@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahir Lope</h1>
-<h3 align="center">A passionate frontEnd developer for Mexico</h3>
+<h3 align="center">A passionate developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellsh4rk&label=Profile%20views&color=0e75b6&style=flat" alt="hellsh4rk" /> </p>
 
